@@ -1,6 +1,6 @@
 # A High Command Patch
 
-This is a patch that the Arma devs should have already implemented.
+This is a patch that the Arma 3 devs should have already implemented.
 
 - Arma's High Command now works after teamswitch and respawn
 - Designed to work with other HC mods: Platoon Leader, High Command Enhanced, High Command Converter, and any mods that use HC
