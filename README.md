@@ -1,4 +1,6 @@
-# A High Command Patch
+# High Command Fixit Fox: A High Command Patch (Arma 3 mod)
+
+[Here on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3453561688)
 
 This is a patch that the Arma 3 devs should have already implemented.
 
