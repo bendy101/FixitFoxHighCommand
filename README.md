@@ -1,4 +1,5 @@
-# High Command Fixit Fox: A High Command Patch (Arma 3 mod)
+# High Command Fixit Fox
+## A High Command Patch (Arma 3 mod)
 
 ![High Command Fixit Fox Logo](https://images.steamusercontent.com/ugc/38951333684882338/82A7902D86D0476628D6E8125A48F345B0BD8C67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
